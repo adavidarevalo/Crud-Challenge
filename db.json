@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "david",
+      "price": "1000",
+      "id": 15
+    },
+    {
+      "name": "Piña",
+      "price": "50",
+      "id": 16
+    },
+    {
+      "name": "Tequila",
+      "price": "200",
+      "id": 17
+    }
+  ]
+}
